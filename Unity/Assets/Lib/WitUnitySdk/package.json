@@ -1,0 +1,20 @@
+{
+    "name": "wit-unity-sdk",
+    "version": "2.0.0",
+    "displayName": "wit-unity-ui",
+    "description": "Develop Tools",
+    "unity": "2021.3",
+    "unityRelease": "0b5",
+    "dependencies": {
+   },
+   "keywords": [
+      "keyword1",
+      "keyword2",
+      "keyword3"
+    ],
+    "author": {
+      "name": "WitMotion",
+      "email": "unity@example.com",
+      "url": "https://www.unity3d.com"
+    }
+  }
